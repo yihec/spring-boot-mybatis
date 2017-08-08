@@ -9,3 +9,6 @@
 这个是百度百科上面对spring boot 优点的描述，其实我感觉也是这样，大家可以试一下。
 
 这里主要就是把框架建立起来了，可以直接跑的，里面主要整合了spring boot 整合mybatis + swagger2 然后 就是 spring boot-aop 跟log4j日志打印，满足基本的web开发需求，然后配置文件可以根据自己的业务去修改，包括业务逻辑部分。
+
+
+首页地址：localhost:8080/page/login
