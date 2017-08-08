@@ -12,3 +12,4 @@
 
 
 首页地址：localhost:8080/page/login
+swagger页面地址： http://localhost:8080/swagger-ui.html
